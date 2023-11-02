@@ -25,6 +25,12 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 ![THUMB_led_button](https://github.com/upiir/arduino_led_buttons/assets/117754156/1575c11e-1349-48c3-baeb-e21b6c71831a)
 
 
+Small animation:
+
+![arduino_led_buttons](https://github.com/upiir/arduino_led_buttons/assets/117754156/9901302c-e230-46b4-b285-4b95697759a2)
+
+
+
 
 Screenshots from the video:
 
